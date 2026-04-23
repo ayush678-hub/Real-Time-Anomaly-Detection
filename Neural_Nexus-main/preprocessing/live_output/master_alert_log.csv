@@ -1,0 +1,7 @@
+timestamp,cam_id,cam_name,location,zone,gps_lat,gps_lon,scene,alert_type,severity,message,frame,maps_url
+2026-04-16 14:51:31,CAM-02,Central Concourse,Metro Station — Platform Level,ZONE-A,28.62,77.21,metro,PERSON_RUNNING_#320_SPEED=27.0PX/F,5,PERSON RUNNING #320 speed=27.0px/f,26,"https://maps.google.com/?q=28.62,77.21"
+2026-04-16 14:51:38,CAM-02,Central Concourse,Metro Station — Platform Level,ZONE-A,28.62,77.21,metro,PERSON_RUNNING_#320_SPEED=32.0PX/F,5,PERSON RUNNING #320 speed=32.0px/f,72,"https://maps.google.com/?q=28.62,77.21"
+2026-04-16 14:51:50,CAM-02,Central Concourse,Metro Station — Platform Level,ZONE-A,28.62,77.21,metro,PERSON_RUNNING_#978_SPEED=16.3PX/F,5,PERSON RUNNING #978 speed=16.3px/f,144,"https://maps.google.com/?q=28.62,77.21"
+2026-04-16 14:51:55,CAM-02,Central Concourse,Metro Station — Platform Level,ZONE-A,28.62,77.21,metro,PERSON_RUNNING_#978_SPEED=13.9PX/F,5,PERSON RUNNING #978 speed=13.9px/f,176,"https://maps.google.com/?q=28.62,77.21"
+2026-04-16 14:52:01,CAM-02,Central Concourse,Metro Station — Platform Level,ZONE-A,28.62,77.21,metro,PERSON_RUNNING_#978_SPEED=19.1PX/F,5,PERSON RUNNING #978 speed=19.1px/f,216,"https://maps.google.com/?q=28.62,77.21"
+2026-04-16 14:52:09,CAM-02,Central Concourse,Metro Station — Platform Level,ZONE-A,28.62,77.21,metro,PERSON_RUNNING_#978_SPEED=11.7PX/F,5,PERSON RUNNING #978 speed=11.7px/f,266,"https://maps.google.com/?q=28.62,77.21"
